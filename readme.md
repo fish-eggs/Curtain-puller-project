@@ -1,4 +1,4 @@
-\# Automated Curtain Puller
+# Automated Curtain Puller
 
 
 
@@ -7,4 +7,8 @@ Curtains, especially blackout curtains, block light from the outdoors for a vari
 
 
 There is a need for an automated curtain puller system which, at controlled times, lowers and raises the curtains when needed. This project will allow for such a system that will both encourage entering deep sleep by blocking out outside light, while also encouraging a natural wake-up by allowing natural light to enter the room.
+
+
+
+Refer to [BUILD\_LOG.md](BUILD_LOG.md) for commit tracking and details.
 
